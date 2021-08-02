@@ -1,0 +1,51 @@
+{
+	"basics": {
+		"name": "NEHA SINGH",
+		"label": "Student",
+		"picture": "https://media-exp1.licdn.com/dms/image/C5603AQGtJXCCngIm-A/profile-displayphoto-shrink_200_200/0/1592065501226?e=1633564800&v=beta&t=8YkEUf4I_oAor9FgNXdf447npEYqyH3-YgfPwlnPgfU",
+		"email": "2019kuec2012@iiitkota.ac.in",
+		"phone": "7668265649",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota and pursuing my B.tech in Electronics and Communications Engineering.",
+		"location": {
+			"address": "Tundla",
+			"postalCode": "283204",
+			"city": "Agra",
+			"countryCode": "India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "Neha-singh366",
+				"url": "https://github.com/Neha-singh366"
+			},
+			{
+				"network": "linkedin",
+				"username": "neha-singh-b00b5618b",
+				"url": "https://www.linkedin.com/in/neha-sing/h-b00b5618b"
+			}
+
+		]
+	},
+
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-8-05 ",
+		"courses": [
+			"Electronics and Communications Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Python", "Java", "PHP", "Mysql"]
+	}],
+	"interests": [{
+			"name": "Sports",
+			"keywords": ["Judo", "Athletics"]
+		},
+		{
+			"keywords": ["Singing"]
+		}
+	]
+}
